@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> I'm Yangyang, a front-end developer.
+I'm Yangyang, a front-end developer.
 >
 > [Github](https://github.com/ly980408) · [Blog](https://ly980408.github.io/)
 
