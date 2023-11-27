@@ -6,4 +6,4 @@
 <br>
 <p>前端开发；</p>
 <p>热衷技术，重度代码洁癖；</p>
-<p>开源爱好者，<a href="https://antfu.me/" target="_blank">antfu</a>的狂热粉丝；</p>
+<p>开源大佬<a href="https://antfu.me/" target="_blank">Anthony Fu</a>的狂热粉丝；</p>
